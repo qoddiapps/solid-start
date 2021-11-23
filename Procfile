@@ -1,1 +1,1 @@
-web: npm run
+web: lerna run
